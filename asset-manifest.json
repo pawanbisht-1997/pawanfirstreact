@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pawanfirstreact/static/css/main.7d3f8b8b.css",
+    "main.js": "/pawanfirstreact/static/js/main.aa93175c.js",
+    "static/js/787.da9da96d.chunk.js": "/pawanfirstreact/static/js/787.da9da96d.chunk.js",
+    "static/media/banner.jpeg": "/pawanfirstreact/static/media/banner.0673b8185bb8901d7e33.jpeg",
+    "index.html": "/pawanfirstreact/index.html",
+    "main.7d3f8b8b.css.map": "/pawanfirstreact/static/css/main.7d3f8b8b.css.map",
+    "main.aa93175c.js.map": "/pawanfirstreact/static/js/main.aa93175c.js.map",
+    "787.da9da96d.chunk.js.map": "/pawanfirstreact/static/js/787.da9da96d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3f8b8b.css",
+    "static/js/main.aa93175c.js"
+  ]
+}
